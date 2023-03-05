@@ -92,4 +92,9 @@ int main()
 	{
 		cout << name << endl;
 	}*/
+
 }
+
+class IntArray {
+	int* m_array;
+};
